@@ -1,0 +1,306 @@
+{
+  "version": 1,
+  "termStart": "2026-08-31",
+  "totalWeeks": 19,
+  "stagger": true,
+  "periods": [
+    {
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "start": "09:00",
+      "end": "09:50"
+    },
+    {
+      "start": "10:10",
+      "end": "11:00"
+    },
+    {
+      "start": "11:10",
+      "end": "12:00"
+    },
+    {
+      "start": "14:00",
+      "end": "14:50"
+    },
+    {
+      "start": "15:00",
+      "end": "15:50"
+    },
+    {
+      "start": "16:10",
+      "end": "17:00"
+    },
+    {
+      "start": "17:10",
+      "end": "18:00"
+    },
+    {
+      "start": "19:00",
+      "end": "19:50"
+    },
+    {
+      "start": "20:00",
+      "end": "20:50"
+    },
+    {
+      "start": "21:00",
+      "end": "21:50"
+    }
+  ],
+  "courses": [
+    {
+      "id": "source-1",
+      "day": 0,
+      "start": 1,
+      "end": 2,
+      "name": "人工智能基础与应用",
+      "teacher": "张伟",
+      "room": "大数据技术与应用实验室414",
+      "weeks": "6-11",
+      "rule": "all",
+      "color": "blue"
+    },
+    {
+      "id": "source-2",
+      "day": 0,
+      "start": 3,
+      "end": 4,
+      "name": "大学体育Ⅰ（羽毛球）",
+      "teacher": "张璐",
+      "room": "场地待定",
+      "weeks": "4-19",
+      "rule": "all",
+      "color": "yellow"
+    },
+    {
+      "id": "source-3",
+      "day": 0,
+      "start": 5,
+      "end": 6,
+      "name": "高等数学A（上）",
+      "teacher": "王宗",
+      "room": "B330",
+      "weeks": "4-17",
+      "rule": "all",
+      "color": "sage"
+    },
+    {
+      "id": "source-4",
+      "day": 0,
+      "start": 7,
+      "end": 8,
+      "name": "形势与政策1",
+      "teacher": "吴静",
+      "room": "B107",
+      "weeks": "4-6",
+      "rule": "all",
+      "color": "lavender"
+    },
+    {
+      "id": "source-5",
+      "day": 0,
+      "start": 9,
+      "end": 10,
+      "name": "机械制图上",
+      "teacher": "马晓丽",
+      "room": "B108",
+      "weeks": "4-15",
+      "rule": "all",
+      "color": "peach"
+    },
+    {
+      "id": "source-6",
+      "day": 1,
+      "start": 1,
+      "end": 2,
+      "name": "机械工程通用英语Ⅰ",
+      "teacher": "刘红梅",
+      "room": "B224",
+      "weeks": "4-11",
+      "rule": "all",
+      "color": "blue"
+    },
+    {
+      "id": "source-7",
+      "day": 1,
+      "start": 1,
+      "end": 2,
+      "name": "机械工程通用英语Ⅰ",
+      "teacher": "张玲",
+      "room": "B224",
+      "weeks": "12-19",
+      "rule": "all",
+      "color": "blue"
+    },
+    {
+      "id": "source-8",
+      "day": 1,
+      "start": 7,
+      "end": 8,
+      "name": "思想道德与法治",
+      "teacher": "李晓辉",
+      "room": "虚拟教室X101",
+      "weeks": "5-15",
+      "rule": "odd",
+      "color": "lavender"
+    },
+    {
+      "id": "source-9",
+      "day": 1,
+      "start": 9,
+      "end": 10,
+      "name": "大学生心理健康",
+      "teacher": "吴静",
+      "room": "B304",
+      "weeks": "4-11",
+      "rule": "all",
+      "color": "yellow"
+    },
+    {
+      "id": "source-10",
+      "day": 2,
+      "start": 1,
+      "end": 2,
+      "name": "高等数学A（上）",
+      "teacher": "王宗",
+      "room": "B508",
+      "weeks": "4-16",
+      "rule": "all",
+      "color": "sage"
+    },
+    {
+      "id": "source-11",
+      "day": 2,
+      "start": 3,
+      "end": 4,
+      "name": "人工智能基础与应用",
+      "teacher": "张伟",
+      "room": "B310",
+      "weeks": "4-13",
+      "rule": "all",
+      "color": "blue"
+    },
+    {
+      "id": "source-12",
+      "day": 2,
+      "start": 7,
+      "end": 8,
+      "name": "劳动教育基础1",
+      "teacher": "张凤波",
+      "room": "B324",
+      "weeks": "4",
+      "rule": "all",
+      "color": "yellow"
+    },
+    {
+      "id": "source-13",
+      "day": 3,
+      "start": 5,
+      "end": 6,
+      "name": "工程化学基础",
+      "teacher": "赵娟",
+      "room": "B502",
+      "weeks": "4-17",
+      "rule": "all",
+      "color": "sage"
+    },
+    {
+      "id": "source-14",
+      "day": 3,
+      "start": 9,
+      "end": 10,
+      "name": "国家安全教育",
+      "teacher": "吴静",
+      "room": "B504",
+      "weeks": "10-14",
+      "rule": "all",
+      "color": "lavender"
+    },
+    {
+      "id": "source-15",
+      "day": 4,
+      "start": 1,
+      "end": 2,
+      "name": "高等数学A（上）",
+      "teacher": "王宗",
+      "room": "B126",
+      "weeks": "4-16",
+      "rule": "all",
+      "color": "sage"
+    },
+    {
+      "id": "source-16",
+      "day": 4,
+      "start": 3,
+      "end": 4,
+      "name": "机械工程通用英语Ⅰ",
+      "teacher": "刘红梅",
+      "room": "B109",
+      "weeks": "4-11",
+      "rule": "all",
+      "color": "blue"
+    },
+    {
+      "id": "source-17",
+      "day": 4,
+      "start": 3,
+      "end": 4,
+      "name": "机械工程通用英语Ⅰ",
+      "teacher": "张玲",
+      "room": "B109",
+      "weeks": "12-19",
+      "rule": "all",
+      "color": "blue"
+    },
+    {
+      "id": "source-18",
+      "day": 4,
+      "start": 5,
+      "end": 6,
+      "name": "思想道德与法治",
+      "teacher": "李晓辉",
+      "room": "B510",
+      "weeks": "4-17",
+      "rule": "all",
+      "color": "lavender"
+    },
+    {
+      "id": "source-19",
+      "day": 4,
+      "start": 7,
+      "end": 8,
+      "name": "机械制图上",
+      "teacher": "马晓丽",
+      "room": "B107",
+      "weeks": "4-14",
+      "rule": "even",
+      "color": "peach"
+    },
+    {
+      "id": "source-20",
+      "day": 4,
+      "start": 7,
+      "end": 8,
+      "name": "机械制图上",
+      "teacher": "马晓丽",
+      "room": "B116",
+      "weeks": "5-15",
+      "rule": "odd",
+      "color": "peach"
+    },
+    {
+      "id": "source-21",
+      "day": 4,
+      "start": 9,
+      "end": 10,
+      "name": "军事理论课",
+      "teacher": "马甲",
+      "room": "02-602",
+      "weeks": "4-9",
+      "rule": "all",
+      "color": "yellow"
+    }
+  ]
+}
